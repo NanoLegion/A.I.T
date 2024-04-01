@@ -6,4 +6,9 @@ Issues:
 
 Currently:
  - Needs to manually solve captchas
- - Increase the size of the wordlist for mroe combinations. 
+ - Increase the size of the wordlist for mroe combinations.
+
+Dependencies:
+ - undetected-chromedriver
+ - fake-useragent
+ - selenium
