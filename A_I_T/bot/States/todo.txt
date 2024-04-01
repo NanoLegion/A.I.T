@@ -1,0 +1,9 @@
+{ISSUES}
+1. Selenium captcha integration
+
+2. Logging Usernames
+
+3. Possibly adding bot comments with a second wordlist.py file (comments.py?)
+
+{$IDEAS}
+1. Run A.I.T through a VPN
