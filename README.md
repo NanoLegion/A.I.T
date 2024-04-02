@@ -1,7 +1,7 @@
 # A.I.T
 
 Bio:
- - Automated. Internal. Tool.
+ - Automated Internal Tool
  - Follow Bot
 
 Issues: 
