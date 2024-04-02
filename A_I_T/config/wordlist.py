@@ -77,5 +77,6 @@ class name_list:
         "Alton", "Asbury", "Bart", "Benton", "Beverly", "Birt", "Burl", "Chin", "Elihu", "Erastus", "Ford", "Hampton", "Houston", "Johnson", "Len", "Lonzo", "Loyd", "Lucas", "Lucien", "Malfoy",
         "Alby", "Mortimer", "Omar", "Orval", "Pierre", "Raleigh", "Ransom", "Rush", "Shelby", "Tommie", "Wilmer", "Alonza", "Artie", "Bee", "Benjaman", "Bradley", "Cal", "Cloyd", "Maryo"
         "Davys", "Dexter", "Emmitt", "Finley", "Guss", "June", "Lacy", "Larkin", "Meyer", "Mont", "Newt", "Paris", "Pleas", "Rupert", "Russel", "Santiago", "Sid", "Soloman", "Kane","Loba",
-        "Thornton", "Walton", "Warner", "Watson", "Willam", "Wylie", "Zeb","Montie","Bellamy","Raeshell","Fordent","Wayze","Tayden","Conelope","Zim","Mortius","Plies","Batista","Pratt"
+        "Thornton", "Walton", "Warner", "Watson", "Willam", "Wylie", "Zeb","Montie","Bellamy","Raeshell","Fordent","Wayze","Tayden","Conelope","Zim","Mortius","Plies","Batista","Pratt","Cartoy",
+        "Boyd","Lloyd","Retnaus","Loucast","Louwillis","Crayton","Sellvia","Beauhelm","Fanzer","Jemllius","Kentavi","Blainem","Tautrry","Pollious","Wyntez","Drem","Sedro","Kroy","Mennoy","Quinten"
     ]
