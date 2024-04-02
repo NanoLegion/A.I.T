@@ -61,6 +61,7 @@ class email_elements:
         '@protonmail.com','@gmail.com','@yahoo.com','@mailfence.com',
         '@msn.com','@hotmail.com','@aol.com','@outlook.com',
     ]
+    
 @dataclass
 class locators:
     name_xpath: str = '//*[@id="name"]'
