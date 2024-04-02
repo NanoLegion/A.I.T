@@ -12,3 +12,4 @@ Dependencies:
  - fake-useragent
  - selenium
  - Python 3.9.13
+  
