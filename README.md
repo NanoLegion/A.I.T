@@ -1,5 +1,9 @@
 # A.I.T
 
+Bio:
+ - Automated. Internal. Tool.
+ - Follow Bot
+
 Issues: 
  - Implement Captcha Solver
 
